@@ -8,7 +8,9 @@ This is the current stable release.
 
 Download and run:
 
-`ShahidPDF_Setup_v1.2.5.exe`
+## Download
+
+[Download ShahidPDF v1.2.5 for Windows](https://github.com/mshahid98/shahidpdf-releases/releases/download/v1.2.5/ShahidPDF_Setup_v1.2.5.exe)
 
 ## System requirements
 
