@@ -1,4 +1,4 @@
-# Shahid PDF v1.2.5
+# Shahid PDF v1.2.9
 
 Shahid PDF is a lightweight Windows PDF editor for everyday office work, forms, scans and engineering PDFs.
 
@@ -8,7 +8,7 @@ This is the current stable release.
 
 Download and run:
 
-[Download ShahidPDF v1.2.5 for Windows](https://github.com/mshahid98/shahidpdf-releases/releases/download/v1.2.5/ShahidPDF_Setup_v1.2.5.exe)
+[Download ShahidPDF v1.2.9 for Windows](https://github.com/mshahid98/shahidpdf-releases/releases/download/v1.2.9/ShahidPDF_Setup_v1.2.9.exe)
 
 ## System requirements
 
