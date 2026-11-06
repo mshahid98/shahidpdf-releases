@@ -1,12 +1,32 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mshahid98/shahidpdf-releases/main/assets/shahid-pdf-icon.svg" alt="Shahid PDF logo" width="120">
+
 # Shahid PDF
 
 ### Your everyday PDF work, made simpler.
 
-A fast, lightweight PDF editor for Windows, built for office documents, bank forms, scanned paperwork and engineering drawings.
+A fast, lightweight PDF editor for Windows, built for office documents,<br>
+bank forms, scanned paperwork and engineering drawings.
 
-**Read, comment, fill forms, sign, print and measure 3D models for free.** Try every Pro tool with a **7-day free trial**: no registration, no payment details.
+<a href="https://github.com/mshahid98/shahidpdf-releases/releases/latest"><img src="https://img.shields.io/github/v/release/mshahid98/shahidpdf-releases?label=version&color=DC2626" alt="Latest version"></a>
+<img src="https://img.shields.io/badge/Windows-10%20%7C%2011%20%C2%B7%2064--bit-0284C7" alt="Windows 10 and 11, 64-bit">
+<img src="https://img.shields.io/badge/Free-%2B%20Pro%207--day%20trial-16A34A" alt="Free, with a 7-day Pro trial">
+<img src="https://img.shields.io/badge/size-~23%20MB-64748B" alt="About 23 MB">
+<img src="https://img.shields.io/badge/made%20in-Malaysia-F59E0B" alt="Made in Malaysia">
 
-## [⬇ Download Shahid PDF 1.3.5 for Windows](https://github.com/mshahid98/shahidpdf-releases/releases/latest)
+<br><br>
+
+<a href="https://github.com/mshahid98/shahidpdf-releases/releases/latest"><img src="https://img.shields.io/github/v/release/mshahid98/shahidpdf-releases?style=for-the-badge&label=%E2%AC%87%20Download%20for%20Windows&color=DC2626" alt="Download Shahid PDF for Windows" height="40"></a>
+
+**Read, comment, fill forms, sign, print and measure 3D models for free.**<br>
+Try every Pro tool with a **7-day free trial**: no registration, no payment details.
+
+</div>
+
+---
+
+## Install
 
 Windows 10 (version 1809 or later) and Windows 11 · 64-bit · about 23 MB
 
