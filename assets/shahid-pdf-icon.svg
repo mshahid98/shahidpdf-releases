@@ -1,0 +1,35 @@
+<svg viewBox="250 88 280 352" xmlns="http://www.w3.org/2000/svg" width="280" height="352">
+  <defs>
+    <linearGradient y2="100%" x2="100%" y1="0%" x1="0%" id="pdfRed">
+      <stop stop-color="#FF4B4B" offset="0%"></stop>
+      <stop stop-color="#DC2626" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient y2="100%" x2="100%" y1="0%" x1="0%" id="techBlue">
+      <stop stop-color="#38BDF8" offset="0%"></stop>
+      <stop stop-color="#0284C7" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient y2="100%" x2="0%" y1="0%" x1="0%" id="paper">
+      <stop stop-color="#FFFFFF" offset="0%"></stop>
+      <stop stop-color="#E2E8F0" offset="100%"></stop>
+    </linearGradient>
+    <filter height="140%" width="140%" y="-20%" x="-20%" id="shadow">
+      <feDropShadow flood-opacity="0.3" flood-color="#000000" stdDeviation="10" dy="8" dx="0"></feDropShadow>
+    </filter>
+  </defs>
+  <g transform="translate(260, 80)" filter="url(#shadow)">
+    <path fill="url(#paper)" stroke="#CBD5E1" stroke-width="3"
+          d="M 40 20 L 200 20 L 260 80 L 260 300 Q 260 320 240 320 L 40 320 Q 20 320 20 300 L 20 40 Q 20 20 40 20 Z"></path>
+    <path fill="#94A3B8" d="M 200 20 L 200 66 Q 200 80 214 80 L 260 80 Z"></path>
+    <g transform="translate(140 118) scale(0.72) translate(-140 -160)">
+      <path stroke-linejoin="round" stroke-linecap="round" stroke-width="30" stroke="url(#pdfRed)" fill="none"
+            d="M 210 110 C 210 75, 120 75, 100 115 C 80 155, 180 165, 180 205 C 180 245, 90 245, 70 210"></path>
+      <path fill="url(#techBlue)" d="M 60 200 L 90 180 L 85 220 Z"></path>
+    </g>
+    <path fill="#991B1B" d="M 0 274 L 20 274 L 20 290 Z"></path>
+    <rect fill="url(#pdfRed)" rx="10" height="64" width="190" y="212" x="0"></rect>
+    <text fill="#FFFFFF" font-size="42" font-weight="800" letter-spacing="4"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif"
+          text-anchor="middle" y="259" x="97">PDF</text>
+    <line stroke-linecap="round" stroke-width="5" stroke="#CBD5E1" y2="298" x2="220" y1="298" x1="60"></line>
+  </g>
+</svg>
